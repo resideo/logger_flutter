@@ -6,6 +6,8 @@
 
 .packages
 .pub/
+.flutter-plugins
+.flutter-plugins-dependencies
 
 build/
 ios/
